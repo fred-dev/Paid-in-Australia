@@ -1,5 +1,39 @@
 # Paid in Australia
 
+## What this is, in plain English
+Every year, Australian governments spend over $100 billion buying services from private companies. That money pays for disability support, childcare, consulting, maintenance, infrastructure, and hundreds of other services that Australians depend on.
+
+Most of it works. But a significant share of that money doesn't stay in Australia.
+It flows to offshore shareholders as dividends. It pays nine-figure executive salaries. It disappears into layered subcontracting chains. It funds corporate overhead structures that have nothing to do with the service being delivered. The workers actually doing the work — the support coordinators, the project managers, the engineers, the childcare educators — often earn modest wages while the companies billing the government report healthy margins.
+
+This project proposes two things to fix that.
+
+**First:** Create a new kind of supplier called a Public-Benefit Supplier. Not a charity. Not a government agency. A purpose-built organisation that competes for government contracts, pays its workers well, and reinvests its surplus into the service rather than distributing it to private shareholders. Skilled workers who currently work inside large corporate contractors would have a clear, subsidised pathway to leave and form these leaner organisations — and without the corporate overhead, they could earn more while the government pays less.
+
+**Second:** Where for-profit companies do hold government contracts, require that the majority of their ownership sits with Australian superannuation funds. This means that when government spending generates profit, that profit flows to the retirement savings of ordinary Australians rather than offshore. The economy stays circular. The money keeps working for Australia.
+
+## Who benefits?
+
+Workers get more secure jobs and better wages. Australians get better services at lower overhead cost. Superannuation members get returns from a new class of government-backed investment. Regional communities get suppliers with local reinvestment obligations. And governments get more public value per dollar spent.
+
+## Is this socialist?
+
+No. Government does not own or run the suppliers. They compete with each other. They innovate. They can fail. The difference is that the profits stay in Australia and the workers have secure jobs.
+
+## Is this protectionist?
+
+It is designed to keep public money circulating in Australia. The legal design is careful — it begins with transparency and procurement scoring, not hard mandates, and it is reviewed at each stage against procurement law and trade commitments.
+
+## Who does this hurt?
+
+The offshore shareholders and executive extraction structures currently built on top of Australian public spending. That is a feature, not a bug.
+
+## How does it start?
+
+Slowly and carefully. Transparency requirements first. Voluntary registration. Pilot programs in childcare, disability services, and local government. Formation support for new suppliers. Hard rules only after evidence supports them.
+
+## The longer version
+
 Paid in Australia is a collaborative policy development repository for proposals that seek to keep the benefits of Australian public spending circulating within Australia.
 
 The project begins from a simple principle: when public money is spent, the public should receive more than the immediate contracted service. Public spending should strengthen Australian workers, Australian communities, Australian productive capacity, Australian superannuation, and long term national resilience.
