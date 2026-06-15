@@ -27,6 +27,10 @@ Consulting reform should follow earlier pilots because:
 5. data on contract scope, subcontracting, profit margin, and staff cost is often limited
 6. reforms must avoid simply shifting expenditure from one large supplier category to another
 
+## A note on evaluation
+
+Policy proposals of this kind are traditionally reviewed, modelled, and stress-tested with the assistance of major consulting firms. The consulting sector is therefore in the unusual position of being both a likely evaluator of this proposal and one of its primary subjects. That conflict should be named clearly. As with all components of this project, evaluation should follow the contribution model set out in `GOVERNANCE.md` — community review, independent expert assessment, and transparent analysis. The fox should not be asked to evaluate the safety of the henhouse.
+
 ## Initial research tasks
 
 1. Build a dataset of Commonwealth consulting contracts using AusTender.
