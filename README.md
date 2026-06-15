@@ -34,6 +34,37 @@ The offshore shareholders and executive extraction structures currently built on
 
 Slowly and carefully. Transparency requirements first. Voluntary registration. Pilot programs in childcare, disability services, and local government. Formation support for new suppliers. Hard rules only after evidence supports them.
 
+### Why is this on GitHub?
+
+GitHub is a platform designed for collaborative development of documents and code. It lets anyone propose a change, see every previous version, and have proposals reviewed before they are accepted. For a policy project, this matters: every suggested edit is visible, trackable, and moderated. Nothing changes without review.
+
+This is genuinely democratic in a way that most policy development is not. Normally, policy is shaped in ministerial offices, by well-funded lobby groups, or in consultation processes that are open in name but closed in practice. Here, anyone with a good argument and evidence to back it has exactly the same access as anyone else. No funding advantage. No back-channel. No need to know the right people. If your contribution strengthens the proposal, it can be accepted. If it weakens it, the community can say so — openly, on the record.
+
+You do not need to be a developer to contribute. If you have evidence, legal knowledge, sector experience, or a well-reasoned objection, your input is welcome.
+
+There are two ways to engage:
+
+- **Issues** — raise a question, flag a problem, or suggest an idea without editing any files directly.
+- **Pull requests** — propose a specific change to the text, which maintainers and the community can then review, discuss, and accept or decline.
+
+Anyone can also **fork** this repository — create their own copy to develop a related proposal, a sector-specific version, or a state-level adaptation.
+
+This project will grow through the contributions of people who know their sector, their community, or their area of law better than any single author could. The quality of what this becomes depends directly on who chooses to engage with it.
+
+**A note on how contributions are evaluated right now.** The long-term goal is a formal democratic review process — community voting on proposed changes, combined with independent expert and legal assessment, and LLM-assisted analysis to identify contradictions or unintended consequences. That process is described in [`GOVERNANCE.md`](GOVERNANCE.md) and is what this project is working toward. In the meantime, during this early stage, maintainers review contributions manually. If you have thoughts on how the contribution and voting process itself should work, that is exactly the kind of input that belongs in a pull request or issue against [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
+If you are new to GitHub, the official guide to contributing to a project is a good place to start: [docs.github.com → Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
+
+### Who started this and why?
+
+This project was started by one person, not an economist, not a lawyer, not a policy professional. Someone who has spent a long time watching two-party politics and well-funded lobby groups consistently get in the way of straightforward decisions, and wondering why governments with access to enormous resources and genuine democratic mandates so rarely use them boldly.
+
+Australia is wealthy. How that wealth circulates, who captures it, who benefits from it, whether it compounds for future generations or drains away through structures designed to extract it, is one of the most consequential questions the country faces. It does not get treated that way.
+
+These proposals are not presented as the only ideas that matter, or as the work of an expert. They are ideas that have been worth thinking about seriously, developed carefully enough to be worth putting in front of people who can improve them. That is the point of this repository. The goal is not to protect a fixed vision, it is to find out whether these ideas hold up, and to make them better through the contributions of people who know more.
+
+If you think something here is wrong, incomplete, or could be stronger, that is exactly why this exists.
+
 ## Project status
 
 This is an early policy development repository. It is not legal advice, financial advice, procurement advice, or investment advice. It is a working policy proposal that requires expert review.
