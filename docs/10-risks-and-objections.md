@@ -45,3 +45,7 @@ Response: Compliance burden should be proportionate to contract size and risk. S
 ## Objection: The policy could create sham public-benefit entities
 
 Response: This is a known risk. The status must include audit powers, related party rules, beneficial ownership transparency, subcontracting limits, and meaningful penalties.
+
+## Revision: Penalties and non-compliance
+
+Early drafts of this proposal included imprisonment for repeat serious offenders. The project has moved away from this as a standard regulatory penalty for several reasons: bespoke imprisonment provisions for regulatory breach are unusual in Australian corporate law, they create significant drafting complexity, they are likely to generate disproportionate political opposition, and existing criminal law already covers the most serious conduct — fraud, false accounting, wage theft, bribery, and deliberate evasion. The preferred model is graduated civil enforcement with referral to existing criminal pathways where appropriate.
