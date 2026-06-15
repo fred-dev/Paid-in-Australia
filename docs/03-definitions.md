@@ -55,6 +55,22 @@ A remuneration cap is the maximum total annual remuneration that may be paid to 
 
 A pay ratio is the maximum permitted ratio between the highest and lowest paid workers in the organisation, calculated on a full time equivalent basis.
 
+The pay ratio is potentially the most structurally significant worker protection mechanism in this proposal. Unlike a minimum wage floor, which sets a fixed baseline independent of organisational decisions, a pay ratio creates a direct structural incentive: any executive or senior leader who wishes to increase their own remuneration must first increase the remuneration of the lowest paid worker in the organisation by a proportional amount. The benefit of higher pay at the top cannot be separated from the cost of higher pay at the bottom.
+
+This means that over time, in a well-functioning Public-Benefit Supplier, wage growth is not confined to senior roles. It propagates downward through the organisation as a condition of upward movement at the top. This is a fundamentally different incentive structure from anything currently required by Australian labour law, which sets floors but does not link executive remuneration to worker remuneration in any binding way.
+
+The exact ratio should be determined through sector modelling and consultation. A ratio of 8:1 is used as an illustrative starting point for MVP purposes. This would mean that if the lowest paid full time equivalent worker earns $60,000 per year, the highest paid person in the organisation may earn no more than $480,000 per year. If the organisation wishes to pay its chief executive $720,000, the lowest paid worker must earn at least $90,000.
+
+The ratio should:
+
+- be calculated on a full time equivalent basis to prevent manipulation through part time arrangements
+- include all remuneration, benefits, bonuses, contractor payments to related parties, and non-cash benefits
+- apply to the total remuneration of any individual receiving payment from the organisation, including through related entities
+- be reported publicly in annual accounts
+- be auditable by the regulator
+
+The pay ratio works in combination with the remuneration cap. The cap sets an absolute ceiling. The ratio sets a structural floor that rises with the ceiling. Together they create an organisation where the interests of the highest and lowest paid workers are directly linked.
+
 ## Secure employment
 
 Secure employment means that ordinary ongoing work should be performed through permanent full time or permanent part time employment. Casual employment should not be used for ordinary ongoing work by a Public-Benefit Supplier.
