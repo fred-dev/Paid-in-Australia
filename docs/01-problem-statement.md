@@ -4,6 +4,8 @@ Australian governments spend large sums through markets that are created, sustai
 
 In many of these markets, the government does not directly provide the service. It purchases the service, subsidises the user, or funds a provider market. This model can produce competition and innovation, but it can also create leakage of public value.
 
+Commonwealth AusTender reported $104.9 billion in contract value for 2024-25. Of that, 60.5% of new contract value was in contracts over $20 million. Services represented 74.3% of total value. 88.3% went to suppliers with an Australian address — but Australian address is not the same as Australian beneficial ownership, Australian tax residency, or Australian profit circulation.
+
 ## Forms of leakage
 
 Public value can be lost through:
