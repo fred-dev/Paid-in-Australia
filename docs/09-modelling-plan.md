@@ -2,6 +2,9 @@
 
 The project should eventually include economic modelling. The MVP should define the questions and required data before attempting results.
 
+## Context
+Illustrative only — not verified modelling. If Commonwealth services contracts represent approximately $78B of the $104.9B reported contract value, and if a conservative 8% profit margin is assumed for large corporate suppliers, approximately $6B per year may be distributed as profit. If half of that is offshore-owned, approximately $3B per year may leave the Australian economy through profit flows alone, before accounting for executive remuneration, offshore management fees, and related-party payments. This figure is illustrative. The project requires verified sector-by-sector analysis.
+
 ## Main modelling questions
 
 1. How much public value leaks from government funded markets through profit extraction, offshore flows, high overheads, and subcontracting chains?
