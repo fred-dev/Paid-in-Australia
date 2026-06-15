@@ -15,6 +15,28 @@ The policy should be implemented gradually. The aim is to build capability, test
 
 Introduce reporting requirements for large government suppliers, including ownership, subcontracting, related party payments, executive remuneration, labour standards, offshore payments, and reinvestment.
 
+## Stage 1A: Transitional compliance requirements for existing suppliers
+
+Before new Public-Benefit Suppliers can fill government funded markets at scale, existing for-profit suppliers holding government contracts should be subject to progressively increasing obligations that begin to level the playing field and reduce extraction during the transition period.
+
+Transitional compliance requirements may include:
+
+- mandatory disclosure of beneficial ownership, ultimate parent entities, and country of control
+- disclosure of subcontracting ratios and subcontractor identity for contracts above threshold values
+- disclosure of executive remuneration bands
+- disclosure of offshore payments, related party transactions, and dividend flows
+- minimum Australian content requirements for labour and subcontracting where lawful
+- pay ratio reporting between highest and lowest paid workers on the contract
+- workforce casualisation reporting
+- tax transparency certification
+- superannuation compliance verification
+
+These requirements serve two purposes. First, they generate the evidence base needed to assess leakage, overhead, and extraction across the market. Second, they begin to shift the competitive conditions in government funded markets before Public-Benefit Suppliers are ready to compete at scale, reducing the advantage currently held by structures optimised for extraction rather than service delivery.
+
+Transitional compliance requirements should be proportionate to contract size and sector risk. Large contracts above defined thresholds should attract the full set of requirements. Smaller contracts should attract simplified versions. The thresholds should be published and reviewed annually.
+
+Existing suppliers that meet transitional compliance requirements in full should not face procurement disadvantage relative to suppliers that do not. Compliance should be a baseline condition for contract renewal, not a scoring bonus.
+
 ## Stage 2: Voluntary registration
 
 Create a voluntary Public-Benefit Supplier register.
