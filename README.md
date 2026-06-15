@@ -4,7 +4,7 @@
 Every year, Australian governments spend over $100 billion buying services from private companies. That money pays for disability support, childcare, consulting, maintenance, infrastructure, and hundreds of other services that Australians depend on.
 
 Most of it works. But a significant share of that money doesn't stay in Australia.
-It flows to offshore shareholders as dividends. It pays nine-figure executive salaries. It disappears into layered subcontracting chains. It funds corporate overhead structures that have nothing to do with the service being delivered. The workers actually doing the work — the support coordinators, the project managers, the engineers, the childcare educators — often earn modest wages while the companies billing the government report healthy margins.
+It flows to offshore shareholders as dividends. It pays eight-figure executive salaries. It disappears into layered subcontracting chains. It funds corporate overhead structures that have nothing to do with the service being delivered. The workers actually doing the work — the support coordinators, the project managers, the engineers, the childcare educators — often earn modest wages while the companies billing the government report healthy margins.
 
 This project proposes two things to fix that.
 
@@ -12,25 +12,31 @@ This project proposes two things to fix that.
 
 **Second:** Where for-profit companies do hold government contracts, require that the majority of their ownership sits with Australian superannuation funds. This means that when government spending generates profit, that profit flows to the retirement savings of ordinary Australians rather than offshore. The economy stays circular. The money keeps working for Australia.
 
-## Who benefits?
+## Common questions
+
+### Who benefits?
 
 Workers get more secure jobs and better wages. Australians get better services at lower overhead cost. Superannuation members get returns from a new class of government-backed investment. Regional communities get suppliers with local reinvestment obligations. And governments get more public value per dollar spent.
 
-## Is this socialist?
+### Is this socialist?
 
 No. Government does not own or run the suppliers. They compete with each other. They innovate. They can fail. The difference is that the profits stay in Australia and the workers have secure jobs.
 
-## Is this protectionist?
+### Is this protectionist?
 
 It is designed to keep public money circulating in Australia. The legal design is careful — it begins with transparency and procurement scoring, not hard mandates, and it is reviewed at each stage against procurement law and trade commitments.
 
-## Who does this hurt?
+### Who does this hurt?
 
 The offshore shareholders and executive extraction structures currently built on top of Australian public spending. That is a feature, not a bug.
 
-## How does it start?
+### How does it start?
 
 Slowly and carefully. Transparency requirements first. Voluntary registration. Pilot programs in childcare, disability services, and local government. Formation support for new suppliers. Hard rules only after evidence supports them.
+
+## Project status
+
+This is an early policy development repository. It is not legal advice, financial advice, procurement advice, or investment advice. It is a working policy proposal that requires expert review.
 
 ## The longer version
 
@@ -56,9 +62,7 @@ This repository is an MVP for a long term policy project. It is intended to gath
 
 The first version focuses on structure rather than final law. Later versions should include detailed legal drafting, modelling, sector specific implementation plans, and clause by clause amendments.
 
-## Project status
 
-This is an early policy development repository. It is not legal advice, financial advice, procurement advice, or investment advice. It is a working policy proposal that requires expert review.
 
 ## Repository structure
 
