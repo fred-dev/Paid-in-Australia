@@ -93,3 +93,5 @@ Any Australian-benefit ownership mechanism should:
 The MVP supports the goal of Australian-benefit ownership. It does not yet claim that a hard ownership mandate is legally ready.
 
 The first practical step is transparency, followed by lawful procurement scoring and incentives.
+
+The superannuation pathway does not require trustees to make uneconomic investments. Government co-investment instruments, concessional finance, and pooled vehicles can be designed so that Australian-benefit ownership positions offer competitive risk-adjusted returns. Infrastructure investment by superannuation is already substantial — the question is whether procurement policy can create investment-grade instruments in government-funded operating companies that meet both trustee duties and public-benefit objectives.
