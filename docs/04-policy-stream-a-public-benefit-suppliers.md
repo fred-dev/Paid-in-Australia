@@ -83,6 +83,48 @@ Support may include:
 
 Example: A team of five NDIS support coordinators currently employed by a national disability services firm earning $95,000–$130,000. The firm's reported margin on government contracts is 12–18%. Under a Public-Benefit Supplier structure, those workers form a company limited by guarantee. Surplus previously distributed as profit is reinvested into wages, training, and service quality. Without the corporate overhead layer, the same government contract value supports higher salaries, better continuity of care, and lower administrative cost.
 
+## Capability demonstration and EOI pathway for complex sectors
+
+In complex or high-risk sectors, the formation of a new Public-Benefit Supplier should not rely solely on self-assessment. Where a sector involves specialised expertise, vulnerable service users, or large contract values, the government should require prospective Public-Benefit Suppliers to demonstrate capability through a structured expression of interest process before receiving transition support, procurement preference, or contract access.
+
+This EOI pathway should assess:
+
+- the professional track record of the founding workers and leaders
+- their direct experience delivering the relevant service
+- their governance and compliance capacity
+- their proposed reinvestment and workforce plans
+- their transition and continuity arrangements
+- references from existing clients, agencies, or sector bodies
+
+This model reflects how high-quality professional services actually develop. Capability precedes the entity. The people forming the organisation carry the expertise, the relationships, and the track record. The EOI process formalises that reality and provides a quality gate without requiring the new supplier to have an established operating history.
+
+Where an EOI process is used, the government should provide:
+
+- a clear assessment framework published in advance
+- feedback to unsuccessful applicants
+- transition contracts or shadow periods to allow new suppliers to build capacity alongside existing providers
+- mentoring from established not-for-profit or public sector operators in the relevant field
+
+The EOI pathway is not a barrier. It is a supported on-ramp for skilled workers who are ready to leave large corporate structures and deliver the same work with less overhead, more autonomy, and stronger public-benefit obligations.
+
+## Service continuity and transition risk
+
+Service continuity during transition is a legitimate concern and should be treated seriously. However, the risk should be assessed against the actual track record of the current system, not against an idealised version of it.
+
+Large corporate contractors in government funded markets have a documented history of cost overruns, scope creep, capability transfer failures, subcontracting chains that obscure accountability, and service quality problems. Australian National Audit Office reports, Senate estimates hearings, and parliamentary inquiries consistently identify these failures across sectors including consulting, IT, defence, disability services, and infrastructure. The relevant comparison is not Public-Benefit Suppliers versus a perfectly functioning incumbent model. It is Public-Benefit Suppliers versus the actual outcomes the current model produces.
+
+With that framing, the transition risk calculation changes substantially. If a new Public-Benefit Supplier requires additional support, a longer establishment period, or some degree of hand-holding during transition, the cost of that support is likely to remain competitive with the overhead and extraction costs embedded in large corporate contracts. The question is not whether the transition is costless. It is whether the transition cost is lower than the ongoing cost of the status quo.
+
+To manage continuity risk, the policy should include:
+
+- sector specific transition timelines based on complexity and risk
+- shadow periods where new suppliers operate alongside incumbents before taking full contract responsibility
+- transitional contracts that allow new suppliers to build capacity and track record before competing for full contract values
+- staged handover requirements for complex or long-running contracts
+- continuity obligations on incumbent suppliers during transition periods
+- regulator powers to extend transition periods where service risk is identified
+- clear thresholds for when transition support can be extended and when it should be withdrawn
+- 
 ## Procurement preference
 
 Government procurement should gradually preference Public-Benefit Suppliers in suitable sectors.
