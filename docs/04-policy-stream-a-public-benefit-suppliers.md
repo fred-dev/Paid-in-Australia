@@ -79,6 +79,8 @@ Support may include:
 - mentoring
 - transition contracts
 
+Example: A team of five NDIS support coordinators currently employed by a national disability services firm earning $95,000–$130,000. The firm's reported margin on government contracts is 12–18%. Under a Public-Benefit Supplier structure, those workers form a company limited by guarantee. Surplus previously distributed as profit is reinvested into wages, training, and service quality. Without the corporate overhead layer, the same government contract value supports higher salaries, better continuity of care, and lower administrative cost.
+
 ## Procurement preference
 
 Government procurement should gradually preference Public-Benefit Suppliers in suitable sectors.
