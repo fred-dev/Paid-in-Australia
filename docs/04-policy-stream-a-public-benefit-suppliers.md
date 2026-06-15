@@ -49,6 +49,8 @@ The MVP also proposes a maximum pay ratio between the highest and lowest paid wo
 
 The aim is not to suppress skilled wages. The aim is to prevent public money from supporting excessive executive extraction while allowing skilled workers to earn strong salaries in lean public-benefit organisations.
 
+The $900,000 figure is proposed as an MVP threshold. It is set above the remuneration of most senior public servants, most university vice-chancellors, and most hospital CEOs — positions that already demonstrate that high-quality leadership of complex organisations can be secured within this range using public or not-for-distribution funding. It is below the remuneration levels common in large corporate government contractors. The threshold should be indexed and reviewed with sector evidence.
+
 ## Employment standards
 
 Public-Benefit Suppliers should not rely on casual employment for ordinary ongoing work.
